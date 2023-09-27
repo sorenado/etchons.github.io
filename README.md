@@ -1,2 +1,0 @@
-# etchons.github.io
-website
