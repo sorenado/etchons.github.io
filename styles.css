@@ -50,3 +50,14 @@ footer {
     text-align: center;
     padding: 10px 0;
 }
+
+section.social-media {
+    display: flex;
+    justify-content: center;
+    filter: grayscale(90%);
+    transition: 0.5 ease-out;
+}
+
+section.social-media a:hover {
+    filter: hue-rotate(90deg);
+}
